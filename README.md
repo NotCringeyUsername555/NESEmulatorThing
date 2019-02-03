@@ -1,0 +1,2 @@
+# NESEmulatorThing
+its a emulator
